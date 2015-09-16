@@ -1,0 +1,11 @@
+{
+  "name": "Necropole",
+  "version": "0.1.0a",
+  "main": "index.html",
+  "window": {
+  	"resizable": false,
+    "toolbar": false,
+    "width": 800,
+    "height": 600
+  }
+}
